@@ -137,6 +137,50 @@ Lo que funcionó: vincular gestos metafóricamente a pinceles, y el tutorial dem
 
 Aprendizaje: balance entre control (precisión, suavizado) y expresión (ruido, aditivos, glow).
 
+## Investigación y Referentes
+1️⃣ Marco Conceptual
+
+Este proyecto se fundamenta en la convergencia entre arte generativo, visión computacional y cuerpo como interfaz. El objetivo es transformar los gestos de la mano en trazos visuales, explorando la relación entre movimiento, emoción y creación digital.
+La obra no se controla con un mouse o teclado, sino con la presencia corporal, proponiendo un modo más natural e intuitivo de interactuar con la máquina.
+
+2️⃣ Contexto Tecnológico
+
+La tecnología base es ml5.js, una biblioteca que hace accesible el uso de modelos de machine learning como HandPose, desarrollado sobre MediaPipe Hands de Google.
+Este modelo detecta 21 puntos clave por mano, lo que permite interpretar gestos complejos en tiempo real. Combinado con p5.js, se obtiene un entorno creativo para generar visuales dinámicos y responder al movimiento humano.
+
+Modelo usado: HandPose (MediaPipe Hands)
+Frameworks: p5.js + ml5.js
+
+3️⃣ Referentes Artísticos
+🔹 Rafael Lozano-Hemmer
+
+Sus obras exploran la interacción entre cuerpos humanos y sistemas digitales. Proyectos como Pulse Room y Surface Tension inspiraron la idea de usar la presencia corporal como pincel.
+
+🔹 Zach Lieberman
+
+Artista del creative coding, creador de visuales interactivos basados en el movimiento del cuerpo. Su enfoque en el gesto y la emoción visual influyó directamente en la estética del proyecto.
+
+🔹 Memo Akten
+
+Investigador y artista que trabaja con redes neuronales y movimiento humano. Su proyecto Learning to See y sus experimentos con body tracking fueron referentes clave para la dimensión expresiva de la obra.
+
+🔹 Casey Reas
+
+Co-creador de Processing, pionero en arte generativo. Su enfoque en la “traducción de procesos en visuales” influyó en la estructura algorítmica del dibujo gestual.
+
+4️⃣ Justificación del Diseño de Interacción
+
+El sistema interpreta cinco gestos naturales (palma, puño, pinza, índice, “V”) para activar distintos pinceles visuales.
+La elección responde a criterios de:
+
+Intuición: gestos reconocibles por cualquier usuario.
+
+Fluidez: evitar interrupciones o menús, favoreciendo la sensación de “pintar con el aire”.
+
+Expresividad: cada gesto representa una emoción plástica (energía, calma, precisión, caos, disolución).
+
+Además, el gesto de tres dedos para borrar y el tutorial interactivo guiado refuerzan la accesibilidad y el aprendizaje corporal.
+
 ## Link: 
 [Trabajo final en p5.js](https://editor.p5js.org/NicolasQ455359/sketches/9Y0JLWCSY)
 
