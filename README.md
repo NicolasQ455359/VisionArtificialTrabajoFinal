@@ -140,6 +140,10 @@ Aprendizaje: balance entre control (precisión, suavizado) y expresión (ruido, 
 ## Link: 
 [Trabajo final en p5.js](https://editor.p5js.org/NicolasQ455359/sketches/9Y0JLWCSY)
 
+## Presentación
+[Ver presentación en Gamma](https://gamma.app/docs/Cuerpo-Lienzo-pintar-con-gestos-uhyhduws5z27yyd)
+
+
 
 
 
