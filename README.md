@@ -168,6 +168,17 @@ Investigador y artista que trabaja con redes neuronales y movimiento humano. Su 
 
 Co-creador de Processing, pionero en arte generativo. Su enfoque en la “traducción de procesos en visuales” influyó en la estructura algorítmica del dibujo gestual.
 
+<img width="1346" height="1360" alt="image" src="https://github.com/user-attachments/assets/c197b3e5-e2f8-4789-ae25-26716b9daa5e" />
+
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/62720634-f8a5-4f15-a3fc-02a30a905088" />
+
+<img width="1095" height="1200" alt="image" src="https://github.com/user-attachments/assets/65547edc-0096-4bb1-aa81-2802497f0072" />
+
+<img width="962" height="1200" alt="image" src="https://github.com/user-attachments/assets/19b56af2-e50c-4636-a450-3aa0c3589b33" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/36b04128-15d9-45d9-8006-21cd274fe8eb" />
+
+
 4️⃣ Justificación del Diseño de Interacción
 
 El sistema interpreta cinco gestos naturales (palma, puño, pinza, índice, “V”) para activar distintos pinceles visuales.
